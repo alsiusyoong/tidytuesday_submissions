@@ -1,6 +1,6 @@
 # TidyTuesday
 TidyTuesday is a weekly social data project that can be found [here](https://github.com/rfordatascience/tidytuesday). This is how I practice data manipulation and data visualization using R. I participated in this project in 2020.
-https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-05/readme.md
+
 # 2020
 | Data | Source | Article | Code |
 | :--- | :--- | :--- | :--- |
